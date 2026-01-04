@@ -1,1 +1,1 @@
-Local:nso686.ddns.net:14444:0:0,Ntv:160.250.181.246:14444:0:0,Tnso:160.22.161.100:14444:0:0,Nsoqt:sv1.nsoqt.click:14444:0:0,Galaxy:160.22.160.62:14444:0:0
+Local:nso686.ddns.net:14444:0:0,Nguyenthevin:160.250.181.246:14444:0:0,Thanhnso:160.22.161.100:14444:0:0,Nsoqt:sv1.nsoqt.click:14444:0:0,Galaxy:160.22.160.62:14444:0:0
