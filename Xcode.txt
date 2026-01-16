@@ -1,4 +1,3 @@
 # THÀNH | HSD: VINH VIEN
 Nso Studio:160.22.161.169:14444:0:0
-# TRƯỜNG | HSD VINH VIEN
-NSOQT:sv1.nsoqt.click:14444:0:0
+
