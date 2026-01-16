@@ -1,3 +1,5 @@
 # THÀNH | HSD: VINH VIEN
 Nso Studio:160.22.161.169:14444:0:0
+# THÀNH | HSD VINH VIEN
+Nso Farado X:160.22.161.100:14444:0:0,NSOQT:sv1.nsoqt.click:14444:0:0
 
