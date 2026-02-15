@@ -4,3 +4,5 @@ Nso Studio:160.22.161.169:14444:0:0
 Nso Farado X:160.22.161.100:14444:0:0
 # test | hsd vv
 test:110.172.28.193:14444:0:0
+# test | hsd vinh vien 
+NSO TEST:103.176.23.151:14444:0:0
