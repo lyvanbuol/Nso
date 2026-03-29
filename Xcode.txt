@@ -1,2 +1,4 @@
 # THÀNH | HSD: VINH VIEN
 NSO:103.165.144.38:14444:0:0
+# TEST | HSD VV
+TEST:sv1.ninjaawaken.com:1210:0:0
