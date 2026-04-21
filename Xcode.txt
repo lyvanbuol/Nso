@@ -1,14 +1,2 @@
 # THANH | HSD: 2030-01-01 12:00
 NSO:103.165.144.38:14444:0:0
-# - Khách: Đỗ Văn Sơn | HSD: 2026-04-28 10:06
-CTNS:157.10.198.192:14444:0:0
-# Lê Thành Quang | HSD: 2026-05-10 19:52
-Nso Kid:160.30.112.16:14444:0:0
-# Lê Thành Quang | HSD: 2026-04-17 19:51
-# NSO SHINOBI:103.149.252.91:14444:0:0
-#  - Khách: Anhchis | HSD: 2026-06-01 13:57
-HẮC ẢNH :157.66.80.203:14444:0:0
-# - Khách: Nguyễn Bá Phúc | HSD: 2026-05-09 22:57
-Ninjasunv2:103.178.235.204:14444:0:0
-# dat nsoninja | HSD: 2026-04-21 22:05
-NSO NINJA:sv.nsoninja.com:14444:0:0
