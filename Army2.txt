@@ -1,1 +1,4 @@
-ARMY2:army2.ddns.net:19128
+*Xu So Dieu Ky
+Thanh Pho Hoan My:127.0.0.1:19128
+Thanh Pho Dieu Ky:127.0.0.1:19128
+Thanh Pho Dieu Ky:127.0.0.1:19128
