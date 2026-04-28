@@ -1,4 +1,4 @@
 *Xu So Dieu Ky
-Thanh Pho Hoan My:127.0.0.1:19128
-Thanh Pho Dieu Ky:127.0.0.1:19128
-Thanh Pho Dieu Ky:127.0.0.1:19128
+Thanh Pho lol:127.0.0.1:19128
+Thanh Pho cu:127.0.0.1:19128
+Thanh Pho cl:127.0.0.1:19128
