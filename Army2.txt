@@ -1,4 +1,1 @@
-*Xu So Dieu Ky
-Thanh Pho Hoan My:160.191.51.125:19128
-Thanh Pho Dieu Ky:112.213.85.101:19128
-Thanh Pho Dieu Ky:112.213.85.101:19128
+Trái Đất:localhost:8122
