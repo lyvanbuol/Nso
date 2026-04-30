@@ -1,1 +1,2 @@
-Trái Đất:localhost:8122
+
+online:army2.ddns.net:8122,offline:loaclhost:8122
