@@ -1,2 +1,4 @@
-
-online:army2.ddns.net:8122,offline:loaclhost:8122
+*Xu So Dieu Ky
+AD:157.10.199.136:19199
+AD:157.10.199.136:19199
+AD:157.10.199.136:19199
