@@ -1,5 +1,5 @@
 # Loacl
-nsoeassy:103.77.183.5:14444:0:0
+truonghocnhangia:103.77.183.5:14444:0:0
 # THANH
 NSO:192.168.1.111:14444:0:0
 # NSOBÁ
