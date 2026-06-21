@@ -1,1 +1,1 @@
-NSO:103.165.144.38:14444:0:0
+Cá»¥m S9:S1-Ronin:nsm1.ninjasm.net:14444:0:0,Cá»¥m S2-S3:S2-Tengu:nsm2.ninjasm.net:14444:0:0,Cá»¥m S2-S3:S3-Kazeshi:nsm3.ninjasm.net:14444:0:0,Cá»¥m S4 (Má»›i):S4-Tanjo (Má»›i):nsm4.ninjasm.net:14444:0:0
