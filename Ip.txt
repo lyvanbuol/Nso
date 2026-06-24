@@ -1,1 +1,1 @@
-THnhangia:103.77.183.5:14444:0:0,loacalhost:127.0.0.1:14444:0:0,nsoqt:sv1.nsoqt.io.vn:14444:0:0
+THnhangia:103.77.183.5:14444:0:0,loacalhost:127.0.0.1:14444:0:0,nsoqt:sv1.nsoqt.io.vn:14444:0:0,Nsopony:45.119.215.52:14444:0:0
