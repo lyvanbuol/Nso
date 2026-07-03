@@ -4,5 +4,5 @@ truonghocnhangia:103.77.183.5:14444:0:0
 nsorammus:103.238.234.202:14444:0:0
 # NSOBÁ
 NSOBÁ:202.155.141.118:14444:0:0
-# Loacal
-Loacl:127.0.0.1:14444:0:0
+# nsokensito 
+nsokensito:nsokensito.ddns.net:14444:0:0
