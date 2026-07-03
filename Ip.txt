@@ -1,1 +1,1 @@
-Nsokensito:nsokensito.ddns.net:14444:0:0,Nsorammu:103.238.234.202:14444:0:
+Nsokensito:nsokensito.ddns.net:14444:0:0,Nsorammu:103.238.234.202:14444:0:0,Loacal:192.168.137.1:14444:0:0
