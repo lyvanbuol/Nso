@@ -1,8 +1,8 @@
-# Loacl
-truonghocnhangia:103.77.183.5:14444:0:0
-# THANH
-nsorammus:103.238.234.202:14444:0:0
-# NSOBÁ
-NSOBÁ:202.155.141.118:14444:0:0
+# Nsokensito
+Nsokensito:nsokensito.ddns.net:14444:0:0
+# Ní
+Nsorammus:103.238.234.202:14444:0:0
+# Nsobá
+Nsobá:202.155.141.118:14444:0:0
 # nsokensito 
-nsokensito:nsokensito.ddns.net:14444:0:0
+Loacl:192.168.137.1:14444:0:0
