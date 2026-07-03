@@ -1,1 +1,1 @@
-THnhangia:103.77.183.5:14444:0:0,nsorammu:103.238.234.202:14444:0:0,Nsokensito:nsokensito.ddns.net:14444:0:0
+Nsokensito:nsokensito.ddns.net:14444:0:0,Nsorammu:103.238.234.202:14444:0:
