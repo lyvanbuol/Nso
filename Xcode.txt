@@ -4,5 +4,5 @@ Nsokensito:nsokensito.ddns.net:14444:0:0
 Nsorammus:103.238.234.202:14444:0:0
 # Nsobá
 Nsobá:202.155.141.118:14444:0:0
-# nsokensito 
-Loacl:192.168.137.1:14444:0:0
+# THNG
+Thng:103.77.173.231:14444:0:0
