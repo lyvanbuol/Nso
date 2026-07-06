@@ -1,7 +1,7 @@
 # Nsokensito
 Nsokensito:nsokensito.ddns.net:14444:0:0
 # Ní
-Nsorammus:103.238.234.202:14444:0:0
+Hocnhangia:103.238.234.202:14444:0:0
 # Nsobá
 Nsobá:202.155.141.118:14444:0:0
 # THNG
