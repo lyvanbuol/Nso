@@ -1,5 +1,1 @@
-*AVATAR
-AVATAR:127.0.0.1:19128
-AVATAR:127.0.0.1:19128
-*AVATAR
-AVATAR:127.0.0.1:19128
+Army2 HT:meets-alien-efforts-partially.trycloudflare.com:8122
