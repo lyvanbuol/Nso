@@ -1,1 +1,1 @@
-MinhChau@1 - Minh Châu=Lưu loát,socket://sv.minhchau365.com:28021
+MinhChauok@1 - Minh Châuok=Lưu loát,socket://36.50.134.155:47000
