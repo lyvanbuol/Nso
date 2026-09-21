@@ -1,1 +1,1 @@
-MinhChauok@1 - Minh Châuok=Lưu loát,socket://36.50.134.155:47000
+MinhChau1 - Minh ChâuLocal=Lưu loát,socket://192.168.1.2:7000
