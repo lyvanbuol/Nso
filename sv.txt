@@ -1,1 +1,1 @@
-MinhChau@1 - Minh Châu=Lưu loát,socket://10.190.210.51:7000
+MinhChau@1 - Minh Châu=Lưu loát,socket://192.168.1.2:7000
