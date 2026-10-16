@@ -1,4 +1,4 @@
 # nso | nso 
 Ninja Vui vẻ:180.93.127.38:14444:0:0
 # nso
-servertest:171.235.228.11:14444:0:0
+nsokensito:nsokensito.ddns.net:14444:0:0
