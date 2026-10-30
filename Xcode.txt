@@ -2,3 +2,5 @@
 Ninja Vui vẻ:180.93.127.38:14444:0:0
 # nso
 Nso Kage:103.74.103.20:14444:0:0
+# NSO
+Nsokensito:nsokensito.ddns.net:14444:0:0
