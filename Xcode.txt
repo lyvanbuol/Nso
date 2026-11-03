@@ -1,5 +1,5 @@
 # nso
-NSOkensito:nsokensito.ddns.net:14444:0:0
+Ninjaschool mobile:180.93.114.122:14444:0:0
 # nso | nso 
 Ninja Vui vẻ:180.93.127.38:14444:0:0
 # nso
