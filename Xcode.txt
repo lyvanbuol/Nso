@@ -4,3 +4,7 @@ Ninjaschool mobile:180.93.114.122:14444:0:0
 Ninja Vui vẻ:180.93.127.38:14444:0:0
 # nso
 Nso Kage:103.74.103.20:14444:0:0
+# NSO
+Nsokensito:nsokensito.ddns.net:14444:0:0
+# Nso
+Local:127.0.0.1:14444:0:0
