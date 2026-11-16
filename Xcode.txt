@@ -8,3 +8,5 @@ Nso Kage:103.74.103.20:14444:0:0
 Nsokensito:nsokensito.ddns.net:14444:0:0
 # Nso
 Local:127.0.0.1:14444:0:0
+#
+test:103.178.235.250:14444:0:0
